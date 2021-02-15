@@ -1,0 +1,90 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },   
+  {
+    "id": 0,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "PAI",
+    "title": "1. PAI",    
+    "path": "pages/tema-1.html"    
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-play-circle",
+    "slug": "pandemia",
+    "title": "2. Pandemia",    
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "pandemia",
+        "title": "2.1 Generalidades infección SARS-2 COVID 19",
+        "anchor": "tema2_1"
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "pandemia",
+        "title": "2.2 Sitaución general",
+        "anchor": "tema2_2"
+      }  
+    ]   
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "vacunacion_covid19",
+    "title": "3. Vacunación contra COVID-19",    
+    "path": "pages/tema-3.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "vacunacion_covid19",
+        "title": "3.1 Lineamientos técnicos y operativos",
+        "anchor": "tema3_1"
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "vacunacion_covid19",
+        "title": "3.2 Planeación",
+        "anchor": "tema3_2"
+      },
+      {
+        "icon": "fa fa-play-circle",
+        "slug": "vacunacion_covid19",
+        "title": "3.3 Ruta de acceso y distribución",
+        "anchor": "tema3_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "vacunacion_covid19",
+        "title": "3.4 Estrategia de vacunación y población priorizada",
+        "anchor": "tema3_4"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "vacunacion_covid19",
+        "title": "3.5 Seguimiento de vacunación",
+        "anchor": "tema3_5"
+      }        
+    ]   
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-question-circle",
+    "slug": "actividad",
+    "title": "Actividad didáctica",    
+    "path": "pages/actividad-1.html"    
+  }
+]
