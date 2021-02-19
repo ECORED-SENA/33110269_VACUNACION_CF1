@@ -26,18 +26,12 @@
     "slug": "pandemia",
     "title": "2. Pandemia",    
     "path": "pages/tema-2.html",
-    "submenu": [
+    "submenu": [       
       {
         "icon": "fa fa-file-text",
         "slug": "pandemia",
-        "title": "2.1 Generalidades infección SARS-2 COVID 19",
+        "title": "2.1 Situación general",
         "anchor": "tema2_1"
-      }, 
-      {
-        "icon": "fa fa-file-text",
-        "slug": "pandemia",
-        "title": "2.2 Situación general",
-        "anchor": "tema2_2"
       }  
     ]   
   },
